@@ -26,14 +26,14 @@ Swift, iOS development, spatial audio, or algorithm implementation — happy to 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
+
 ---
  
 ## 🌐 Socials
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-kaushikk)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28740380/kartik-kaushik)
- 
+ <a href="https://www.producthunt.com/products/chalk-sum-math-puzzle?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-chalk-sum-math-puzzle" target="_blank" rel="noopener noreferrer"><img alt="Chalk &amp; Sum: Math Puzzle - Relaxing math puzzles on a chalkboard full of doodles | Product Hunt" width="150" height="24" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1296188&amp;theme=dark&amp;t=1793208993530"></a>
 ---
  
 ## 📊 GitHub Stats
