@@ -1,17 +1,9 @@
 # Hey, I'm Kartik 👋
  
-iOS developer with a thing for building experiences that go beyond the screen. Currently exploring the intersection of audio, physics and interactive UI on Apple platforms.
- 
----
- 
-### What I'm working on
-- iOS apps with RealityKit, AVFoundation and CoreML
-- Expanding my math-to-music engine beyond wave physics
-- Competitive programming — Codeforces Specialist, LeetCode 1800+
- 
-### Ask me about
-Swift, iOS development, spatial audio, or algorithm implementation — happy to talk about any of it.
- 
+I build stuff. Websites, mobile apps, hardware, scripts, pretty much anything that can be coded into existence. If I run into a problem, chances are I'll end up building a solution and pushing it to one of my repos.
+
+These days, iOS is my playground. Just another way of turning ideas into things that actually work.
+
 ---
  
 ## 🛠 Tech Stack
